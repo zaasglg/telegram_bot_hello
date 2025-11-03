@@ -44,13 +44,7 @@ pip install -r requirements.txt
 python bot.py
 ```
 
-## Способ 3: Через Docker
 
-```bash
-# Создайте Dockerfile (см. ниже)
-docker build -t telegram-bot .
-docker run -d --name telegram-bot telegram-bot
-```
 
 ## Управление сервисом
 
